@@ -1,0 +1,50 @@
+- layout: left
+  company: DQUIP Technologies
+  link: www.dquip.com
+  job_title: Junior PHP Developer
+  dates: July 2012 - October 2012
+  quote: >
+   <mark>Short Summer Intership</mark> As a newbie just out of college, this 3 month summer job gave me great exposure
+  description: | # this will include new lines to allow paragraphs
+    Every guy needs a start somewhere and this was my first brush with automation. Helped implement RoundCube mail and a candidate hiring screening process
+- layout: left
+  company: Standard Bank
+  link: www.standardbank.com
+  job_title: Infrastructure Engineer
+  dates: June 2014-Dec 2015
+  quote: >
+   My <mark>first</mark> step to a DevOps based approach to software
+  description: | # this will include new lines to allow paragraphs
+    I helped the team build an automated deployment pipeline and move away from large bulky application servers to a more microservice based approach.
+    Helped the team embrace concepts of continuous integration, deployment and delivery. It is at this stage in my career , where i gained exposure to DevOps as an approach to advocate better communication and collaboration between development and operations
+- layout: left
+  company: Nordea
+  link: www.nordea.dk
+  job_title: Infrastructure Engineer
+  dates: March 2016 - August 2017
+  quote: >
+   Working DevOps at <mark>Scale</mark> with a 10 teams and a total of ~ 45 people
+  description: | # this will include new lines to allow paragraphs
+   I worked in the Financial Planning Platform, and helped coordinate a largely manual process of releasing software into productions across 10 teams, whilst taking small chunks at a time and automating those. Amongst other tasks, i overlooked the infrastructure needed to keep the platform running. Planning Releases for the near future, coordinate with different teams, product owners and business people and advisors about the releases
+- layout: left
+  company: Danske Bank
+  link: www.danskebank.dk
+  job_title: Senior Platform Engineer
+  dates: August 2017-now
+  quote: >
+   Time to be a part of the <mark>Cloud</mark> ☁️ Revolution
+  description: | # this will include new lines to allow paragraphs
+    Help Provision and host infrastructure on a Hybrid mix of AWS(CloudFormation) and Openshift(Pipelines) .
+    <br> All Infrastructure components managed via Terraform.
+    <br> ⬇️Responsibilities include but not limited to ⬇️
+    * CI/CD using Jenkins declarative pipelines and shared libraries
+    * MSSQL database migration via flyway in the pipeline
+    * Service infrastructure on PaaS(Openshift) via yaml templates.
+    * Dockerise microservices and deploy them via pipelines to Openshift
+    * Metrics telemetry , visualisation, and alerting (Telegraf, Grafana, InfluxDB, OpsGenie)
+    * Automatic provisioning of infrastructure via Terraform and Atlantis
+    * Application monitoring and error tracking (sentry)
+    * Code coverage using SonarQube
+    * Operational, Security and License Risk tracking via BlackDuck
+    * Secrets management via OpenSSL and AWS KMS
+    * Log Managememnt via ELK Stack

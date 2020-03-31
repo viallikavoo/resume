@@ -1,0 +1,62 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Vialli Kavoo
+title: Senior Platform Engineer and DevOps Practitioner
+email: vialli_kavoo@hotmail.com
+website:
+
+# Social links
+twitter_username: VialliKavoo
+github_username:  viallikavoo
+# dribbble_username: jekyll
+facebook_username: vialli.kavoo
+# flickr_username: jekyll
+instagram_username: vialli_kavoo
+linkedin_username: viallikavoo
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Vialli and I'm a senior Platform engineer.
+  I have 8 years experience in design and implementation of fully automated continuous integration, continuous delivery and deployment pipelines.
+  I love coding and trying new things and this page is born out of my curiousity to learn
+  My top skills are <mark>Openshift</mark>  <mark>Jenkins</mark>  <mark>Terraform</mark> and <mark>AWS</mark>
+
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+   All work and no play makes Vialli a dull boy! :
+   - Cooking (yeah!)
+   - Bouldering
+   - Gaming
+   - Calisthenics
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

@@ -1,0 +1,8 @@
+- layout: left
+  name: Mumbai University
+  dates: 2008 - 2012
+  qualification: Bachelor of Engineering
+  quote: >
+    The University of Mumbai was established in 1857. One of the notable universities in Asia for Technical education
+  description: | # this will include new lines to allow paragraphs
+    An 8 semester course, covering application of computing, mathematics and anaytical ability to real life problems and trying to solve them by digital implementation.
