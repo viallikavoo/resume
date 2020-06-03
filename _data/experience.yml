@@ -37,14 +37,14 @@
     Help Provision and host infrastructure on a Hybrid mix of AWS(CloudFormation) and Openshift(Pipelines) .
     <br> All Infrastructure components managed via Terraform.
     <br> ⬇️Responsibilities include but not limited to ⬇️
-    * CI/CD using Jenkins declarative pipelines and shared libraries
-    * MSSQL database migration via flyway in the pipeline
-    * Service infrastructure on PaaS(Openshift) via yaml templates.
-    * Dockerise microservices and deploy them via pipelines to Openshift
+    * CI/CD using Jenkins declarative pipelines and shared libraries , Azure DevOps and Octopus Deploy
+    * Database migrations via flyway in the pipeline for version Control
+    * Infrastructure on PaaS(Openshift) via yaml templates.
+    * Dockerise microservices, build and deploy them via pipelines to Openshift
     * Metrics telemetry , visualisation, and alerting (Telegraf, Grafana, InfluxDB, OpsGenie)
-    * Automatic provisioning of infrastructure via Terraform and Atlantis
-    * Application monitoring and error tracking (sentry)
-    * Code coverage using SonarQube
-    * Operational, Security and License Risk tracking via BlackDuck
+    * Automatic provisioning of infrastructure via Terraform(https://www.terraform.io/) and Atlantis(https://www.runatlantis.io/)
+    * Application performance monitoring and error tracking via Sentry(https://sentry.io/)
+    * Code quality and security using SonarQube(https://www.sonarqube.org/)
+    * Open Source Security and License Compliance via BlackDuck(https://www.blackducksoftware.com/)
     * Secrets management via OpenSSL and AWS KMS
-    * Log Managememnt via ELK Stack
+    * Log Managememnt via ELK Stack(https://www.elastic.co/what-is/elk-stack)
