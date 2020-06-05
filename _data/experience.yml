@@ -39,7 +39,7 @@
     <br> ⬇️Responsibilities include but not limited to ⬇️
     * CI/CD using Jenkins declarative pipelines and shared libraries , Azure DevOps and Octopus Deploy
     * Database migrations via flyway in the pipeline for version Control
-    * Infrastructure on PaaS(Openshift) via yaml templates.
+    * Container orchestration on Openshift using yaml templates
     * Dockerise microservices, build and deploy them via pipelines to Openshift
     * Metrics telemetry , visualisation, and alerting (Telegraf, Grafana, InfluxDB, OpsGenie)
     * Automatic provisioning of infrastructure via Terraform(https://www.terraform.io/) and Atlantis(https://www.runatlantis.io/)
@@ -47,4 +47,4 @@
     * Code quality and security using SonarQube(https://www.sonarqube.org/)
     * Open Source Security and License Compliance via BlackDuck(https://www.blackducksoftware.com/)
     * Secrets management via OpenSSL and AWS KMS
-    * Log Managememnt via ELK Stack(https://www.elastic.co/what-is/elk-stack)
+    * Log Management via ELK Stack(https://www.elastic.co/what-is/elk-stack)
