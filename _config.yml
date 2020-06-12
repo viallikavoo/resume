@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have 8 years experience in design and implementation of fully automated continuous integration, continuous delivery and deployment pipelines.
   I love coding and trying new things and this page is born out of my curiousity to learn
   My top skills are <mark>Openshift</mark>  <mark>Jenkins</mark>  <mark>Terraform</mark> and <mark>AWS</mark>
-  PDF Resume at : https://viallikavoo.github.io/docs/Vialli_Resume.pdf
+  PDF Resume at : <a href="https://viallikavoo.github.io/docs/Vialli_Resume.pdf">Resume</a>
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 # Projects Section
