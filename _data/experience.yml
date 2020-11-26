@@ -30,7 +30,7 @@
   company: Danske Bank
   link: www.danskebank.dk
   job_title: Senior Platform Engineer
-  dates: August 2017-now
+  dates: August 2017-August 2020
   quote: >
    Time to be a part of the <mark>Cloud</mark> ☁️ Revolution
   description: | # this will include new lines to allow paragraphs
@@ -48,3 +48,20 @@
     * Open Source Security and License Compliance via BlackDuck(https://www.blackducksoftware.com/)
     * Secrets management via OpenSSL and AWS KMS
     * Log Management via ELK Stack(https://www.elastic.co/what-is/elk-stack)
+- layout: left
+  company: SiteImprove
+  link: siteimprove.com
+  job_title: Senior Site Reliability Engineer
+  dates: September 2020-present
+  quote: >
+   Work to provision and maintain orchestration tools
+  description: | # this will include new lines to allow paragraphs
+    Help Provision and host infrastructure on a Kubernetes
+    <br> All Infrastructure components managed via code.
+    <br> ⬇️Responsibilities include but not limited to ⬇️
+    * CI/CD using Jenkins declarative pipelines and shared libraries
+    * Provision Kubernetes on vSphere on prem using kubespray and on AWS using kops
+    * Kafka provisioning and maintenance on Kubernetes
+    * Container orchestration on Kubernetes using kustomize
+    * Metrics telemetry , visualisation, and alerting (Prometheus, Grafana, DataDog, AlertManager)
+    * Automatic provisioning of infrastructure via Helm on K8s using ArgoCD
