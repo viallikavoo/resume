@@ -7,7 +7,10 @@
   description: | # this will include new lines to allow paragraphs
     An 8 semester course, covering application of computing, mathematics and anaytical ability to real life problems and trying to solve them by digital implementation.
 - layout: left
-  name: [Certification]AWS-SAA-C02
+  name: AWS Certification
   dates: August 2020
+  qualification: AWS SAA-C02
+  quote: >
+    Certification from AWS https://aws.amazon.com/certification/certified-solutions-architect-associate/
   description: | # this will include new lines to allow paragraphs
     AWS Certified Solution Architect Associate C02
