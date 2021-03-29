@@ -24,10 +24,11 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vialli and I'm a senior Platform engineer.
-  I have 8 years experience in design and implementation of fully automated continuous integration, continuous delivery and deployment pipelines.
-  I love coding and trying new things and this page is born out of my curiousity to learn
-  My top skills are <mark>Openshift</mark>  <mark>Jenkins</mark>  <mark>Terraform</mark> and <mark>AWS</mark>
+  Hi, my name’s Vialli and I’m a Senior Site Reliability engineer.
+  I have 8 years of experience in the design and implementation of
+  fully automated continuous integration, continuous delivery and deployment pipelines.
+  I love coding and trying new things and this page is born out of my curiosity
+  My top skills are <mark>Kuybernetes/Openshift</mark>  <mark>Jenkins</mark>  <mark>Terraform</mark>  <mark>AWS</mark> <mark>IaC</mark>
   <br>Detailed PDF Resume at : <a href="https://viallikavoo.github.io/resume/docs/Vialli_Kavoo_Resume.pdf">Resume</a>
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>

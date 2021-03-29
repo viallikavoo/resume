@@ -59,9 +59,9 @@
     Help Provision and host infrastructure on a Kubernetes
     <br> All Infrastructure components managed via code.
     <br> ⬇️Responsibilities include but not limited to ⬇️
-    * CI/CD using Jenkins declarative pipelines and shared libraries
-    * Provision Kubernetes on vSphere on prem using kubespray and on AWS using kops
+    * CI/CD using Jenkins declarative pipelines and shared libraries, github and gitlab runners
+    * Provision Kubernetes on vSphere on prem using kubespray, Terraform and ansible and on AWS
     * Kafka provisioning and maintenance on Kubernetes
     * Container orchestration on Kubernetes using kustomize
     * Metrics telemetry , visualisation, and alerting (Prometheus, Grafana, DataDog, AlertManager)
-    * Automatic provisioning of infrastructure via Helm on K8s using ArgoCD
+    * Automatic provisioning of infrastructure using GitOps with ArgoCD
